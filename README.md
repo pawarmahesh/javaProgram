@@ -1,5 +1,6 @@
 # javaPrograms
 collection of spring boot projects for java learning
+
 (1) core-java
   1. oops conecpts
   2. interfaces
